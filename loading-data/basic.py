@@ -15,4 +15,3 @@ target = digits.target
 
 # View first observation
 print(features[0])
-
